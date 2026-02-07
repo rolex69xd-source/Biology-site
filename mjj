@@ -1,0 +1,3 @@
+.hero {
+    background: linear-gradient(to right, #1e90ff, #00bfff); /* Blue gradient */
+}
